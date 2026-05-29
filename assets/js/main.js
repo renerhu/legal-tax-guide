@@ -32,28 +32,28 @@ const articles = [
     title: "IRS Audit Triggers: What Raises Red Flags (and How to Avoid Them)",
     tag: "IRS & Compliance",
     category: "irs",
-    excerpt: "Learn the most common IRS audit triggers — and practical steps to reduce your audit risk while staying fully compliant with tax laws.",
-    url: "articles/irs-audit-triggers-avoid.html",
-    date: "May 26, 2026",
-    readTime: "10 min read"
+    excerpt: "Coming soon — learn the most common IRS audit triggers and how to reduce your audit risk while staying compliant.",
+    url: "#",
+    date: "Coming Soon",
+    readTime: ""
   },
   {
     title: "LLC vs S-Corp vs C-Corp: Which Business Structure Is Right for You?",
     tag: "Small Business",
     category: "business",
-    excerpt: "A clear comparison of the three most popular business structures — tax implications, liability protection, costs, and which one fits your situation.",
-    url: "articles/llc-vs-scorp-vs-ccorp-comparison.html",
-    date: "May 25, 2026",
-    readTime: "11 min read"
+    excerpt: "Coming soon — a clear comparison of the three most popular business structures and which one fits your situation.",
+    url: "#",
+    date: "Coming Soon",
+    readTime: ""
   },
   {
     title: "Understanding 1099 Forms: A Complete Guide for 2026",
     tag: "Tax Guides",
     category: "tax",
-    excerpt: "Your ultimate guide to 1099 forms — 1099-NEC, 1099-MISC, 1099-K, and more. Who sends them, who gets them, and how to file them correctly.",
-    url: "articles/1099-forms-guide-2026.html",
-    date: "May 24, 2026",
-    readTime: "9 min read"
+    excerpt: "Coming soon — your ultimate guide to 1099-NEC, 1099-MISC, 1099-K, and more.",
+    url: "#",
+    date: "Coming Soon",
+    readTime: ""
   }
 ];
 
