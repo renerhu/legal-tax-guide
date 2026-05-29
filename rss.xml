@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tax & Legal Guide</title>
+    <link>https://taxlegalguide.com/</link>
+    <description>US taxes, LLC formation, and business law made simple</description>
+    <atom:link href="https://taxlegalguide.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 29 May 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>How to Start an LLC in 2026: The Complete Step-by-Step Guide</title>
+      <link>https://taxlegalguide.com/articles/how-to-start-llc-2026.html</link>
+      <description>Everything you need to form an LLC — from choosing your state to filing and compliance.</description>
+      <pubDate>Sat, 29 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>US Tax Filing Guide for Freelancers &amp; Independent Contractors 2026</title>
+      <link>https://taxlegalguide.com/articles/freelancer-tax-guide-2026.html</link>
+      <description>Complete freelancer tax guide — quarterly payments, Schedule C, deductions, and more.</description>
+      <pubDate>Fri, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
