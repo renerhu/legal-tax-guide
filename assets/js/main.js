@@ -6,7 +6,7 @@ const articles = [
     tag: "LLC Formation",
     category: "llc",
     excerpt: "Everything you need to know about forming an LLC in 2026 — from choosing a state to filing Articles of Organization, EIN, and operating agreements.",
-    url: "/articles/how-to-start-llc-2026.html",
+    url: "articles/how-to-start-llc-2026.html",
     date: "May 29, 2026",
     readTime: "12 min read"
   },
@@ -15,7 +15,7 @@ const articles = [
     tag: "Tax Guides",
     category: "tax",
     excerpt: "A complete walkthrough of tax obligations for freelancers — estimated quarterly taxes, Schedule C deductions, self-employment tax, and more.",
-    url: "/articles/freelancer-tax-guide-2026.html",
+    url: "articles/freelancer-tax-guide-2026.html",
     date: "May 28, 2026",
     readTime: "14 min read"
   },
@@ -24,7 +24,7 @@ const articles = [
     tag: "Save Money",
     category: "savemoney",
     excerpt: "Don't leave money on the table. Here are the most overlooked small business tax deductions that could save you thousands this year.",
-    url: "/articles/small-business-tax-deductions.html",
+    url: "articles/small-business-tax-deductions.html",
     date: "May 27, 2026",
     readTime: "8 min read"
   },
@@ -33,7 +33,7 @@ const articles = [
     tag: "IRS & Compliance",
     category: "irs",
     excerpt: "Learn the most common IRS audit triggers — and practical steps to reduce your audit risk while staying fully compliant with tax laws.",
-    url: "/articles/irs-audit-triggers-avoid.html",
+    url: "articles/irs-audit-triggers-avoid.html",
     date: "May 26, 2026",
     readTime: "10 min read"
   },
@@ -42,7 +42,7 @@ const articles = [
     tag: "Small Business",
     category: "business",
     excerpt: "A clear comparison of the three most popular business structures — tax implications, liability protection, costs, and which one fits your situation.",
-    url: "/articles/llc-vs-scorp-vs-ccorp-comparison.html",
+    url: "articles/llc-vs-scorp-vs-ccorp-comparison.html",
     date: "May 25, 2026",
     readTime: "11 min read"
   },
@@ -51,7 +51,7 @@ const articles = [
     tag: "Tax Guides",
     category: "tax",
     excerpt: "Your ultimate guide to 1099 forms — 1099-NEC, 1099-MISC, 1099-K, and more. Who sends them, who gets them, and how to file them correctly.",
-    url: "/articles/1099-forms-guide-2026.html",
+    url: "articles/1099-forms-guide-2026.html",
     date: "May 24, 2026",
     readTime: "9 min read"
   }
