@@ -5,7 +5,13 @@
     <link>https://renerhu.github.io/legal-tax-guide/</link>
     <description>US taxes, LLC formation, and business law made simple</description>
     <atom:link href="https://renerhu.github.io/legal-tax-guide/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 29 May 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Self-Employment Tax 2026: Complete Guide for Freelancers</title>
+      <link>https://renerhu.github.io/legal-tax-guide/articles/self-employment-tax-2026-guide.html</link>
+      <description>Everything freelancers need to know about self-employment tax — rates, calculations, deductions, and quarterly payments.</description>
+      <pubDate>Fri, 30 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>How to Start an LLC in 2026: The Complete Step-by-Step Guide</title>
       <link>https://renerhu.github.io/legal-tax-guide/articles/how-to-start-llc-2026.html</link>
@@ -13,10 +19,34 @@
       <pubDate>Sat, 29 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>IRS Audit Triggers: What Raises Red Flags (and How to Avoid Them)</title>
+      <link>https://renerhu.github.io/legal-tax-guide/articles/irs-audit-triggers-avoid.html</link>
+      <description>Common audit triggers and how to reduce your risk while staying compliant.</description>
+      <pubDate>Sat, 29 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLC vs S-Corp vs C-Corp: Which Business Structure Is Right for You?</title>
+      <link>https://renerhu.github.io/legal-tax-guide/articles/llc-vs-scorp-vs-ccorp-comparison.html</link>
+      <description>Clear comparison of the three most popular business structures.</description>
+      <pubDate>Sat, 29 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding 1099 Forms: A Complete Guide for 2026</title>
+      <link>https://renerhu.github.io/legal-tax-guide/articles/1099-forms-guide-2026.html</link>
+      <description>Ultimate guide to 1099 forms — who sends them, who gets them, and how to file.</description>
+      <pubDate>Sat, 29 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>US Tax Filing Guide for Freelancers &amp; Independent Contractors 2026</title>
       <link>https://renerhu.github.io/legal-tax-guide/articles/freelancer-tax-guide-2026.html</link>
       <description>Complete freelancer tax guide — quarterly payments, Schedule C, deductions, and more.</description>
       <pubDate>Fri, 28 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 Tax Deductions Every Small Business Owner Should Know</title>
+      <link>https://renerhu.github.io/legal-tax-guide/articles/small-business-tax-deductions.html</link>
+      <description>Most overlooked tax deductions that could save you thousands this year.</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

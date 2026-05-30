@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://renerhu.github.io/legal-tax-guide/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,9 +14,27 @@
   </url>
   <url>
     <loc>https://renerhu.github.io/legal-tax-guide/articles/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://renerhu.github.io/legal-tax-guide/articles/how-to-start-llc-2026.html</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://renerhu.github.io/legal-tax-guide/articles/freelancer-tax-guide-2026.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://renerhu.github.io/legal-tax-guide/articles/small-business-tax-deductions.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://renerhu.github.io/legal-tax-guide/articles/irs-audit-triggers-avoid.html</loc>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://renerhu.github.io/legal-tax-guide/articles/1099-forms-guide-2026.html</loc>
     <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://renerhu.github.io/legal-tax-guide/articles/self-employment-tax-2026-guide.html</loc>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

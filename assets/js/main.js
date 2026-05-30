@@ -54,6 +54,15 @@ const articles = [
     url: "articles/1099-forms-guide-2026.html",
     date: "May 29, 2026",
     readTime: "9 min read"
+  },
+  {
+    title: "Self-Employment Tax 2026: Complete Guide for Freelancers",
+    tag: "Tax Guides",
+    category: "tax",
+    excerpt: "Everything freelancers and independent contractors need to know about self-employment tax — rates, calculations, deductions, quarterly payments, and filing.",
+    url: "articles/self-employment-tax-2026-guide.html",
+    date: "May 30, 2026",
+    readTime: "10 min read"
   }
 ];
 
